@@ -61,6 +61,9 @@
                             <a class="btn social-button" href="https://github.com/jusjus112" target="_blank">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                            <a class="btn social-button" href="https://github.com/jusjus112" target="_blank">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
                         </div>
                     </section>
                 </div>
